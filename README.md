@@ -1,2 +1,5 @@
-# 2023-24-2-webprog
-Webprogramozás N1-es csoport
+# Webprogramozás, nappali 1. csoport
+
+- oktató: Tűri Erik - elérhetőség: elsősorban Teams üzenetben
+- időpont: hétfő 17:45-19:15
+- helyszín: déli tömb 2.709 (PC 9)
