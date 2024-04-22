@@ -1,0 +1,23 @@
+{
+    "1": {
+        "plate": "ZZZ-999",
+        "color": "#125fc1",
+        "year": 2008
+    },
+    "2": {
+        "plate": "QQQ-555",
+        "color": "#ffffff",
+        "year": 2024
+    },
+    "67": {
+        "plate": "GGG-112",
+        "color": "#ffffff",
+        "year": 2022
+    },
+    "662692e808051": {
+        "plate": "AAAAAAA",
+        "color": "#000000",
+        "year": 2222,
+        "id": "662692e808051"
+    }
+}
