@@ -1,0 +1,17 @@
+[
+    {
+        "id": 4200,
+        "username" : "admin",
+        "password" : "$2y$10$XI3lRBmZ83Ipdu2eSf8n9ejJkVO.f072WasilLQ0gRxaYICkI4hGy"
+    },
+    {
+        "id": 5555,
+        "username" : "pisti",
+        "password" : "$2y$10$XI3lRBmZ83Ipdu2eSf8n9ejJkVO.f072WasilLQ0gRxaYICkI4hGy"
+    },
+    {
+        "id": 6677,
+        "username" : "anon",
+        "password" : "$2y$10$XI3lRBmZ83Ipdu2eSf8n9ejJkVO.f072WasilLQ0gRxaYICkI4hGy"
+    }
+]
